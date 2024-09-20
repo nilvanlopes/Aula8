@@ -15,11 +15,17 @@ java Main.java
 ## Usando o sistema
 
 Para cadastrar Pessoa no menu principal selecione a opção correspondente no menu digitando seu numero e aperte enter, após, siga as instruções para fornecer os dados de cadastro.
-![cadastrarpessoa1](image.png)
+
+![alt text](image-3.png)
+
 Para alterar os dados de uma pessoa ja cadastrada selecione a opção de alterar no menu digitando seu numero, aperte enter e preencha com os novos dados
+
 ![alt text](image-1.png)
+
 Para exibir os valores dos usuários cadastrados selecione a opção de exibir digitando o numero correspondente e apertando enter
+
 ![alt text](image-2.png)
+
 
 A lógica de encapsulamento do sistema consiste em nenhum dos atributos serem acessíveis diretamente fora de suas classes
 sendo criados métodos getters and setters e setando os atributos como privados.
